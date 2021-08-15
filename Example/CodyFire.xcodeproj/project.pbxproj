@@ -406,8 +406,6 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CodyFireExample/Pods-CodyFireExample-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire-iOS10.0/Alamofire.framework",
@@ -415,8 +413,6 @@
 				"${BUILT_PRODUCTS_DIR}/Starscream-iOS10.0/Starscream.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CodyFire.framework",
