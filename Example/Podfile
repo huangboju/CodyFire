@@ -1,4 +1,6 @@
 use_frameworks!
+platform :ios, '13.2'
+
 target 'CodyFireExample' do
     pod 'CodyFire', :path => '../'
 end

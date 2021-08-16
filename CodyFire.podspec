@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/CodyFlame/CodyFire.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '13.2'
   s.macos.deployment_target = '10.15'
 
   s.source_files = 'CodyFire/Classes/**/*'
@@ -37,6 +37,5 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'Starscream', '~> 3.0.2'
   s.dependency 'Alamofire', '~> 4.7.3'
 end

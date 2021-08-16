@@ -2,8 +2,6 @@ PODS:
   - Alamofire (4.7.3)
   - CodyFire (1.15.4):
     - Alamofire (~> 4.7.3)
-    - Starscream (~> 3.0.2)
-  - Starscream (3.0.6)
 
 DEPENDENCIES:
   - CodyFire (from `../`)
@@ -11,7 +9,6 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - Alamofire
-    - Starscream
 
 EXTERNAL SOURCES:
   CodyFire:
@@ -19,9 +16,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
-  CodyFire: 57746e360c378cb51578f39152f7c6533cafc511
-  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  CodyFire: 3903c0c014d461f095b694f7040bde4a15d6cd33
 
-PODFILE CHECKSUM: bf21d3380434fa8d862ce3804b147c57e22bfa7a
+PODFILE CHECKSUM: 906bb2f5419fa2554a343a30a05dbdac923f9091
 
 COCOAPODS: 1.9.3
